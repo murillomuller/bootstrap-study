@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-study",
+  "version": "1.0.0",
+  "description": "Repository used for study bootstrap4",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murillomuller/bootstrap-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murillomuller/bootstrap-study/issues"
+  },
+  "homepage": "https://github.com/murillomuller/bootstrap-study#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
